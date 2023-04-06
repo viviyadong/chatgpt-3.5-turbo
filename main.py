@@ -1,7 +1,7 @@
 import openai
 
 # Set up OpenAI API key
-api_key = "YOUR_API_KEY"
+api_key = "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"
 openai.api_key = api_key
 
 # Function to send a message to the OpenAI chatbot model and return its response
